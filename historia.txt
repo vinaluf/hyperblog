@@ -1,2 +1,4 @@
 Esta es la historia de Vibes
 Y tengo 28 años
+
+Está aprendiendo a utilizar Git Y GitHub
