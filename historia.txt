@@ -4,3 +4,5 @@ Y tengo 28 años
 Está aprendiendo a utilizar Git Y GitHub
 
 Vamos a hablar de su vida
+
+Quiere hacer una maestria en ciencia computacional
