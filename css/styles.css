@@ -6,9 +6,21 @@ body{
     margin: 0;
     padding: 0;
 }
+#cabecera{
+    background-color: rgb(144, 76, 196);
+    color: aliceblue;
+    margin: 0;
+    padding: 0.5rem;
+    font-weight: bold;
+}
+#cabecera #tagline{
+    padding: 0 0 0 1rem;
+    font-weight: normal;
+    font-size: 0.8rem;
+}
 #container{
-    width: 17%;
-    padding: 1rem;
+    width: 80%;
+    padding: 0;
     border: 1px solid #DDD;
     text-align: center;
     margin: 0 auto;
