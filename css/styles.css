@@ -46,9 +46,19 @@ body{
     padding: 1rem;
 }
 #container h1{
-    font-size: 3rem;
+    font-size: 2rem;
 }
 #container p{ 
     padding-left: 3rem;
     padding-right: 3rem;
+}
+#footer {
+    background-color: aquamarine;
+    padding: 1rem;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    width: 80%;
+    margin: 0 auto;
 }
